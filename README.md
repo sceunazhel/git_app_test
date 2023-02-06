@@ -1,2 +1,2 @@
-# My useless app
-This is an app I made and it's... actually not useless
+# This is my app
+This is an app I made... Or I guess not yet!
